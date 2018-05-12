@@ -1,0 +1,29 @@
+_repo: Cox-The-Man_43026
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43026-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Babson, Roger Ward
+    birthdate: 1875
+    deathdate: 1967
+    gutenberg_agent_id: '24754'
+    url: http://www.gutenberg.org/2009/agents/24754
+    wikipedia: http://en.wikipedia.org/wiki/Roger_Babson
+description: ''
+gutenberg_issued: '2013-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43026'
+  lccn: '20020629'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cox, James M. (James Middleton), 1870-1957'
+- !lcc 'F476'
+- !lcsh 'Politicians -- United States -- Biography'
+title: Cox—The Man
+url: http://www.gutenberg.org/ebooks/43026
